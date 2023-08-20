@@ -1,0 +1,48 @@
+/* line 2, C:/Dev/Udemy/FrontEnd2023/Bootstrap/sass/style.sass */
+.navbar-brand img {
+  width: 100px;
+}
+
+/* line 5, C:/Dev/Udemy/FrontEnd2023/Bootstrap/sass/style.sass */
+.carousel-item {
+  position: relative;
+}
+
+/* line 7, C:/Dev/Udemy/FrontEnd2023/Bootstrap/sass/style.sass */
+.carousel-item img {
+  height: 500px;
+  object-fit: cover;
+}
+
+/* line 11, C:/Dev/Udemy/FrontEnd2023/Bootstrap/sass/style.sass */
+.carousel-inner {
+  position: relative;
+}
+
+/* line 14, C:/Dev/Udemy/FrontEnd2023/Bootstrap/sass/style.sass */
+.overlay {
+  position: absolute;
+  left: 10%;
+  bottom: 10%;
+  padding-right: 10%;
+  max-width: 1000px;
+  color: white;
+}
+
+/* line 22, C:/Dev/Udemy/FrontEnd2023/Bootstrap/sass/style.sass */
+.overlay-img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  background: black;
+  opacity: 0.4;
+}
+
+/* line 31, C:/Dev/Udemy/FrontEnd2023/Bootstrap/sass/style.sass */
+.carousel {
+  margin-bottom: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
